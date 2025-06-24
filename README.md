@@ -76,8 +76,4 @@ The objective of this project is to provide a lightweight, easy-to-use web appli
 
 ---
 
-## Getting Started
 
-1. Clone the repository:
- git clone <repository_url>
- cd <repository_folder>
